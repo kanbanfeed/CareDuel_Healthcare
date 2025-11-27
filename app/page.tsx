@@ -79,9 +79,9 @@ export default function Home() {
               transition={{ duration: 0.8 }}
             >
               <div className="mb-4 flex flex-col gap-2">
-                <span className="bg-purple-100 text-purple-800 text-sm font-semibold px-3 py-1 rounded-full w-fit">
+                {/* <span className="bg-purple-100 text-purple-800 text-sm font-semibold px-3 py-1 rounded-full w-fit">
                   Early-access placeholder — Full features launching soon
-                </span>
+                </span> */}
                 <span className="bg-amber-100 text-amber-800 text-sm font-semibold px-3 py-1 rounded-full w-fit flex items-center gap-1">
                   <Star className="w-4 h-4" />
                   Part of the Crowbar Connected Network
